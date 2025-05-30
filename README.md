@@ -12,7 +12,7 @@ A classic Snake game with modern twists: sound effects, bonus/poison apples, sco
 
 ## 🚀 Demo
 
-Play it here: [https://your-username.github.io/snake-game](https://your-username.github.io/snake-game)
+Play it here: [https://converse-masta-9.github.io/snake-game](https://converse-masta-9.github.io/snake-game)
 
 ## 📦 Tech Stack
 
@@ -25,5 +25,5 @@ Play it here: [https://your-username.github.io/snake-game](https://your-username
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/converse-masta-9/snake-game.git
 cd snake-game
